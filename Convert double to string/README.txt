@@ -1,0 +1,1 @@
+Given input between 0 and 1, return its binary representation in string format
